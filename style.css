@@ -1,0 +1,25 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.my-custom-bg-color{
+    background-color: #264653;
+}
+.my-custom-btn-color{
+    background-color: #E76F51;
+}
+.my-custom-text-color{
+    color: #E76F51;
+}
+.my-custom-tb-margin{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.hr-width{
+    width: 60px;
+    color: #E76F51;
+    padding: 1px;
+    margin-top: -12px;
+}
+.grayscale{
+    filter: grayscale(100%);
+}
