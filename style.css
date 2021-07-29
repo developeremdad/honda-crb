@@ -4,6 +4,9 @@ body{
 .my-custom-bg-color{
     background-color: #264653;
 }
+.my-custom-bg-color1{
+    background-color: #5190a8;
+}
 .my-custom-btn-color{
     background-color: #E76F51;
 }
@@ -28,4 +31,8 @@ body{
 }
 .my-text-justify{
     text-align: justify;
+}
+.my-custom-input{
+    outline: none;
+    margin-right: -10px;
 }
