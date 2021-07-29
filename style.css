@@ -1,11 +1,9 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+/* my custom style sheet  */
 .my-custom-bg-color{
     background-color: #264653;
-}
-.my-custom-bg-color1{
-    background-color: #5190a8;
 }
 .my-custom-btn-color{
     background-color: #E76F51;
