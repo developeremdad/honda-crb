@@ -23,3 +23,9 @@ body{
 .grayscale{
     filter: grayscale(100%);
 }
+.border-radius{
+    border-radius: 50%;
+}
+.my-text-justify{
+    text-align: justify;
+}
